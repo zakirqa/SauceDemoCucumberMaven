@@ -64,42 +64,42 @@ formatter.match({
   "location": "StepDef.user_is_on_the_loginpage()"
 });
 formatter.result({
-  "duration": 5046320300,
+  "duration": 5480822200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDef.user_enters_valid_username()"
 });
 formatter.result({
-  "duration": 192157900,
+  "duration": 243546900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDef.user_enters_valid_password()"
 });
 formatter.result({
-  "duration": 143139200,
+  "duration": 134218800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDef.user_click_on_the_login_button()"
 });
 formatter.result({
-  "duration": 240113100,
+  "duration": 192216600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDef.user_should_be_on_the_homepage()"
 });
 formatter.result({
-  "duration": 317511400,
+  "duration": 336305600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDef.user_should_able_to_close_the_browser()"
 });
 formatter.result({
-  "duration": 836084100,
+  "duration": 814752600,
   "status": "passed"
 });
 });
